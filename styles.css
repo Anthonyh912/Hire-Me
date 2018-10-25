@@ -1,0 +1,24 @@
+p {
+    color:darkgreen;
+    font-family: 'Roboto', sans-serif;
+    }
+ul {
+    color:darkred;
+    font-family: 'Slabo 27px', serif;
+    }
+h2 { 
+    color:blue;
+    font-family: 'Charmonman', cursive;
+    }
+h1 { 
+    border:solid;
+    color:purple;
+    font-family: 'Chakra Petch', sans-serif;
+    }
+body {
+    background-color:lightyellow;
+    }
+img {
+    width:250px;
+}
+
